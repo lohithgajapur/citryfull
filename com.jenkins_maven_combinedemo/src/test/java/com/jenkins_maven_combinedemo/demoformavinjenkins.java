@@ -27,6 +27,7 @@ public class demoformavinjenkins {
 	 String s=driver.getTitle();
 	 System.out.println("-----------"+s+"--------");
 	 System.out.println("lohith first ci try-----");
+	 System.out.println("lohith second----- ci try-----");
 	 
 	// Assert.assertEquals(s, "hi");
 	 
