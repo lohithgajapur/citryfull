@@ -26,6 +26,7 @@ public class demoformavinjenkins {
 	 driver.get("http://www.google.com");
 	 String s=driver.getTitle();
 	 System.out.println("-----------"+s+"--------");
+	 System.out.println("lohith first ci try-----");
 	 
 	// Assert.assertEquals(s, "hi");
 	 
